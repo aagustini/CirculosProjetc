@@ -1,6 +1,7 @@
 
 public class Main {
 
+    // Testa Circulos App
     public static void main(String[] args) {
         System.out.println("hello world\n");
         Circulo c1 = new Circulo();
