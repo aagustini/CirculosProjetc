@@ -41,6 +41,12 @@ public class Main {
 
         System.out.println("\n");
 
+        CadFiguras figs = new CadFiguras();
+        figs.add(fig);
+        figs.add(new Quadrado(2,4,5));
+
+        figs.list();
+
 
     }
 }
