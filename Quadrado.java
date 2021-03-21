@@ -14,7 +14,7 @@ public class Quadrado implements Figura2D {
 
     @Override
     public void mover(double umX, double umY) {
-        // TODO Auto-generated method stub
+       cantoSupEsquerdo = new Ponto(umX, umY);
         
     }
 
