@@ -20,7 +20,7 @@ public class Quadrado implements Figura2D {
 
     @Override
     public void zoom(double fator) {
-        // TODO Auto-generated method stub
+        lado = lado * fator;
         
     }
 
