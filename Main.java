@@ -36,8 +36,8 @@ public class Main {
             System.out.println(c.toString());
         }
 
-        //Figura2D fig = new Circulo(3,4,5);
-        //System.out.println("\n\nFig2D: " + fig.toString());
+        Figura2D fig = new Circulo(3,4,5);
+        System.out.println("\n\nFig2D: " + fig.toString());
 
         System.out.println("\n");
 

@@ -1,4 +1,4 @@
-public class Circulo {
+public class Circulo implements Figura2D {
 
     //private double coordX;   // coordenada em X do centro do circulo
     //private double coordY;
