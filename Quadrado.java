@@ -1,3 +1,6 @@
+//
+// quadrado atualizado localmente
+//
 public class Quadrado implements Figura2D {
     private double lado;
     private Ponto cantoSupEsquerdo;
