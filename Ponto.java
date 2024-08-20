@@ -1,6 +1,6 @@
 public class Ponto {
-    private double X;
-    private double Y;
+    private double X;    // coordenada X
+    private double Y;    // coordenada Y
 
     public Ponto(double umX, double umY)  {
         this.X = umX;
