@@ -1,5 +1,8 @@
 
+
 // editado no remote
+// editado local
+
 
 public class Ponto {
     private double X;    
