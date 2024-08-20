@@ -12,6 +12,9 @@ public class Ponto {
         this.Y = novoY;
     }
 
+
+    // toString gerado automatico
+    
     @Override
     public String toString() {
         return "Ponto{" +
