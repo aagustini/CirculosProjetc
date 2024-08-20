@@ -1,6 +1,9 @@
+
+// editado no remote
+
 public class Ponto {
-    private double X;    // coordenada X
-    private double Y;    // coordenada Y
+    private double X;    
+    private double Y;    
 
     public Ponto(double umX, double umY)  {
         this.X = umX;
