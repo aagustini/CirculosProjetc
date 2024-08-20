@@ -1,7 +1,6 @@
 
 
-// editado no remote
-// editado local
+// editado no remote 
 
 
 public class Ponto {
