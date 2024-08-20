@@ -1,3 +1,7 @@
+//
+// interface para objetos 2d
+//
+
 public interface Figura2D {
     double area();
     void mover(double umX, double umY);
